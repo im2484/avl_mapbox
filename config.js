@@ -57,7 +57,7 @@ var config = {
             hidden: false,
             title: 'RIVER ARTS DISTRICT',
             videoUrl: 'https://www.youtube.com/embed/4-bz0ZHtsgI',
-            image: '',
+            image: 'C:/Users/im2484/OneDrive - Princeton University/Desktop/High_WaterMark/Documentary/Asheville_MapBox/MapBox_tutorial/river_arts_marquee.png',
             description: '<video autoplay muted width="325px" height="200px"controls loop = "controls"><source src= "C:/Users/im2484/OneDrive - Princeton University/Desktop/High_WaterMark/Documentary/Asheville_MapBox/MapBox_tutorial/abigail_in_the_distance_rad.mp4" type = "video/mp4"></video> toxic mud and dust threatens public health in the area',
             location: {
                 center: [-82.566355,35.585429],
